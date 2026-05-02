@@ -1,4 +1,12 @@
-Credit Card Fraud Detection System
+Good timing — here’s your **final polished README (LinkedIn-ready, clean, complete, and fully pastable)** 👇
+
+---
+
+# 💳 Credit Card Fraud Detection System
+
+🚀 Machine Learning-based system to detect fraudulent credit card transactions with an interactive Streamlit dashboard.
+
+---
 
 ## 📌 Overview
 
@@ -71,7 +79,7 @@ Fraudulent transactions are **very rare compared to normal transactions**, makin
 Credit-Card-Fraud-Detection/
 │
 ├── data/
-│   └── creditcard.csv
+│   └── creditcard.csv *(not included in repo)*
 │
 ├── models/
 │   ├── model.pkl
@@ -87,6 +95,13 @@ Credit-Card-Fraud-Detection/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+---
+
+## ⚠️ Dataset Note
+
+Dataset is not included due to GitHub size limits.
+Download from: [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ---
 
@@ -115,6 +130,9 @@ source venv/bin/activate
 
 6. Run application
    streamlit run app.py
+
+---
+
 
 ## 📊 Evaluation Metrics
 
@@ -149,7 +167,9 @@ This project simulates a **real-world fraud detection pipeline**.
 
 ## 🔮 Future Improvements
 
-* Real-time streaming integration
+* Real-time transaction streaming
 * Advanced models (XGBoost, LightGBM)
 * Cloud deployment
 * Dashboard analytics
+
+---
