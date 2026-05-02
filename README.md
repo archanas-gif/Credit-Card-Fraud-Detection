@@ -1,7 +1,3 @@
-Good timing — here’s your **final polished README (LinkedIn-ready, clean, complete, and fully pastable)** 👇
-
----
-
 # 💳 Credit Card Fraud Detection System
 
 🚀 Machine Learning-based system to detect fraudulent credit card transactions with an interactive Streamlit dashboard.
